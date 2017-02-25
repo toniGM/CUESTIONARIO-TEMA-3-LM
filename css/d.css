@@ -141,3 +141,10 @@ input[type="submit"]{
 	margin-left: 5cm;
 	padding: 5px;	
 }
+#cerrar {
+	position: relative;
+	width: 75%;
+	left: 46%;
+	top: 25%;
+	text-align: left;
+}

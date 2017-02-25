@@ -1,0 +1,142 @@
+body{
+	background: #7f8c8d;
+	color: #000000;
+	font-family: calibri;
+    font-weight: 300;
+    font-size: 14px;
+}
+header{
+    text-align: center;
+    background: #4aa3df;
+    border-bottom: #95a5a6 dashed 1px;
+    padding: 15px;
+	background-image: url("../img/logo5.png");
+    background-repeat: no-repeat;
+    background-position: 5% 50%;
+	border: 3px solid black
+}
+header h1{
+    font-family: calibri;
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px;
+}
+header p{
+    padding: 0px;
+    margin-top: 5px;
+    color: #000000
+}
+h3{
+    font-family: calibri;
+    font-weight: 500;
+}
+footer{
+    text-align: center;
+}
+input[type="submit"]{
+    background: #7f8c8d;
+    border: 1px solid black;
+    color: #000;
+    padding: 10px 25px;
+}
+
+.c {
+	position: absolute;
+	display: inline-block;
+	float: left;
+	top: 5px;
+	left: 30px;
+	text-align: center;
+	font-weight: 500;
+	width: 12%;
+	height: 90%;
+}
+.c li a {display: block;padding: 5px;color: #000000;}
+
+#menu {
+	list-style: none;
+	margin: 0;
+    background: #4aa3df;
+    padding: 10px;
+	border: 3px solid black
+	
+}
+#menu li a:hover{color:#f8f8ff;}
+#hidem,#showm{display:none;}
+#container{
+    width: 60%;
+    background: #f8f8ff;
+    margin: 20px auto;
+    overflow: auto;
+    padding: 5px;
+    margin-top: -0.5%;
+    border: 2px solid black;
+}
+#resultados h3{
+    background: #e74c3c;
+    text-align: center;
+    padding: 15px 20px;
+}
+#results span{
+    color: #fff;
+    font-weight: bold;
+}
+
+
+
+
+
+.contacto{
+    border: 1px solid #CED5D7;
+    border-radius: 6px;
+    padding: 45px 45px 20px;
+    margin-top: 50px;
+    background-color: white;
+    box-shadow: 0px 5px 10px #B5C1C5, 0 0 0 10px #EEF5F7 inset;
+}
+.contacto label{
+    display: block;
+    font-weight: bold;
+}
+.contacto div{
+    margin-bottom: 15px;
+}
+.contacto input[type='text'], .contacto textarea{
+    padding: 7px 6px;
+    width: 294px;
+    border: 1px solid #CED5D7;
+    resize: none;
+    box-shadow:0 0 0 3px #EEF5F7;
+    margin: 5px 0;
+}
+.contacto input[type='text']:focus, .contacto textarea:focus{
+    outline: none;
+    box-shadow:0 0 0 3px #dde9ec;
+}
+.contacto input[type='submit']{
+    border: 1px solid #CED5D7;
+    box-shadow:0 0 0 3px #EEF5F7;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0px white;
+ 
+    background: #e4f1f6;
+    background: -moz-linear-gradient(top, #e4f1f6 0%, #cfe6ef 100%);
+    background: -webkit-linear-gradient(top, #e4f1f6 0%,#cfe6ef 100%);
+}
+.contacto input[type='submit']:hover{
+    background: #edfcff;
+    background: -moz-linear-gradient(top, #edfcff 0%, #cfe6ef 100%);
+    background: -webkit-linear-gradient(top, #edfcff 0%,#cfe6ef 100%);
+}
+.contacto input[type='submit']:active{
+    background: #cfe6ef;
+    background: -moz-linear-gradient(top, #cfe6ef 0%, #edfcff 100%);
+    background: -webkit-linear-gradient(top, #cfe6ef 0%,#edfcff 100%);
+}
+
+#instrucciones {
+	margin-left: 8cm;
+	padding: 5px;	
+}

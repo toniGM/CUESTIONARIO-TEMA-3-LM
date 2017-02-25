@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="preguntas.xsd">
+	<question id="p001">
+		<type>text</type>
+		<title>1.- ¿El balanceador de carga forma parte del?</title>
+		<answer>cluster</answer>
+	</question>
+    <question id="p002">
+        <type>select</type>
+        <title>2.- El objetivo de la alta disponibilidad es:</title>
+        <option>a) Duplicar las líneas de conexión a Internet</option>
+        <option>b) Evitar que haya virtualización de servidores</option>
+        <option>c) Evitar que un sistema crítico se pare</option>
+        <option>d) Evitar que un sistema tenga tiempos de inactividad</option>
+        <answer>2</answer>
+    </question>
+    <question id="p003">
+        <type>checkbox</type>
+        <title>3.- El middleware:</title>
+        <option>a) Forma parte de un clúster</option>
+        <option>b) Proporciona un interfaz de comunicación entre usuarios y clúster</option>
+        <option>c) Es el software del balanceador</option>
+        <answer>0</answer>
+        <answer>2</answer>
+    </question>
+    <question id="p004">
+        <type>multiple</type>
+        <title>4.- Las normas ISO:</title>
+        <option>a) Son obligatorias para todas las empresas</option>
+        <option>b) No son obligatorias</option>
+        <option>c) No solamente afectan a los sistemas informáticos</option>
+        <option>d) No son convenientes para sistemas informáticos que traten datos personales</option>
+        <answer>1</answer>
+        <answer>2</answer>
+    </question>
+    <question id="p005">
+        <type>radio</type>
+        <title>5.- Para destruir los datos personales de la Administración Pública:</title>
+        <option>a) Lo puede hacer cualquier persona según la LOPD</option>
+        <option>b) Lo puede hacer cualquiera</option>
+        <option>c) Hay que seguir un proceso especificado en la LOPD</option>
+        <option>d) Se hace según se especifica en el BOE</option>
+        <answer>2</answer>
+    </question>
+    <question id="p006">
+        <type>text</type>
+        <title>6.- ¿Cuantos minutos es lo ideal que, a lo sumo, este parado un sistema critico al año?</title>
+        <answer>cinco</answer>
+    </question>
+    <question id="p007">
+        <type>checkbox</type>
+        <title>7.- Un SAI:</title>
+        <option>a) Es una medida que duplica</option>
+        <option>b) No contribuye a la duplicidad</option>
+        <option>c) Duplica la conexión a Internet</option>
+        <option>d) Es inprescindible como medida de seguridad</option>
+        <answer>0</answer>
+        <answer>3</answer>
+    </question>
+    <question id="p008">
+        <type>select</type>
+        <title>8.- Un servidor con almacenamiento RAID:</title>
+        <option>a) Es un servidor duplicado</option>
+        <option>b) Es un servidor con almacenamiento interno duplicado</option>
+        <option>c) Son dos servidores, el principal y el de refuerzo</option>
+        <option>d) No se utilizan en soluciones de alta disponibilidad</option>
+        <answer>1</answer>
+    </question>
+    <question id="p009">
+        <type>multiple</type>
+        <title>9.- En un clúster, el balanceador de carga y los servidores virtuales:</title>
+        <option>a) Tienen una dirección IP real diferente</option>
+        <option>b) Tienen la misma dirección IP virtual</option>
+        <option>c) Tienen diferente dirección IP virtual</option>
+        <option>d) Se comunican</option>
+        <answer>2</answer>
+        <answer>3</answer>
+    </question>
+    <question id="p010">
+        <type>radio</type>
+        <title>10.- La integridad en los datos:</title>
+        <option>a) Solo afecta a sistemas de bases de datos</option>
+        <option>b) Afecta al funcionamiento del sistema</option>
+        <option>c) Afecta solamente a aquellos sistemas que almacenan datos en tablas</option>
+        <option>d) No es importante en las soluciones de alta disponibilidad</option>
+        <answer>1</answer>
+    </question>
+</questions>

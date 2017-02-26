@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="preguntas.xsd">
-	<question id="p001">
-		<type>text</type>
-		<title>1.- ¿El balanceador de carga forma parte del?</title>
-		<answer>cluster</answer>
-	</question>
+    <question id="p001">
+	<type>text</type>
+	<title>1.- ¿El balanceador de carga forma parte del?</title>
+	<answer>cluster</answer>
+    </question>
     <question id="p002">
         <type>select</type>
         <title>2.- El objetivo de la alta disponibilidad es:</title>

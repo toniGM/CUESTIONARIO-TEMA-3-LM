@@ -25,7 +25,7 @@ Tambien mediante el menu podemos acceder a rellenar un formulario de contacto co
 
 Se realiza una presentación del cuestionario así como su adaptación para realizar la prueba desde todo tipo de dispositivos.
 
-Se raliza separación del codigo HTML / CSS / JS ç
+Se raliza separación del codigo HTML / CSS / JS 
 
 Se han validado e identado HTML/ CSS (En la pagina W3school) y XML (este con XSD).
 

@@ -5,6 +5,8 @@ Creación de un examen con autocorrección -HTML, JavaScrip, XML y CSS y validac
 
 Se puede previsualizar el proyecto aqui:
 
+https://rawgit.com/toniGM/CUESTIONARIO-TEMA-3-LM/master/index.html
+
 
 Se crea un proyecto consistente en una aplicación web, compuesta de páginas web, estilo con CSS, JavaScript y con XML (introdución de preguntas y respuestas en HTML a traves JS).
 En el proyecto creamos una universidad ficticia y realizamos un cuestinario de prueba sobre conocimientos informaticos.

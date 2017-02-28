@@ -1,30 +1,36 @@
 # CUESTIONARIO-TEMA-3-LM
 
-Amb les instruccions següents:
 
-Crea una pàgina web amb 10 preguntes amb, al menys, 5 tipus diferents d'elements de formulari.
-Crea un fitxer XML que contingui el text de les preguntes, les respostes correctes i la informació que creguis necessària (preguntes.xml)
-Codifica JavaScript per donar una sol·lució automatitzada a l'examen (el JavaScript compara les respostes introduïdes al formulari amb les respostes que hi ha al fitxer XML preguntes.xml)
-Construeix una aplicació web (HTML, CSS, JS, XML) que presenti un examen d'una universitat inventada (amb logo i dades a la capçalera) a tot tipus de dispositiu de forma adequada, elegant i que es pugui autocorregir.
+Creación de un examen con autocorrección -HTML, JavaScrip, XML y CSS y validación XML mediante XSD-.
 
-Els elements de formulari amb opció múltiple (select múltiple i checkbox) han de tenir més d'una resposta vàlida.
+Se puede previsualizar el proyecto aqui:
 
 
-Altres propietats opcionals:
+Se crea un proyecto consistente en una aplicación web, compuesta de páginas web, estilo con CSS, JavaScript y con XML ( introducion de preguntas y respuestas en HTML a traves JS),En el proyecto creamos una universidad ficticia y realizamos un cuestinario de prueba sobre conocimientos informaticos.
 
-Instruccions en obrir l'aplicació
-Temps màxim de realització de l'examen
-Altres propostes personals
+Se presenta un cuestionario de 10 preguntas de tipo:
 
-Criteris de qualificació:
+  * Texto 
+  * Selección única 
+  * Selección múltiple 
+  * Checkbox
+  * Radio 
+ 
+Todas ellas a partir de un XML externo, que el mismo se encuentra validado con XSD.
+Al final de la prueba la podemos autocorregir y nos facilita la nota obtenida.
 
-Presenta una pàgina web amb 10 preguntes amb, al menys, 5 tipus diferents d'elements de formulari que és pot omplir i autocorregir a partir d'un xml extern -> 50 punts.
-Presentació, adaptació i facilitat de realització de la prova des de tot tipus de dispositiu -> 20 punts
-Redacció adequada i creativa -> 10 punts
-Separació HTML / CSS / JS -> 10 punts / - 10 punts (pot restar)
-Validació HTML / CSS -> 10 punts / - 10 punts (pot restar)
-Altres: Indent, minify,... qualsevol altre aspecte valorable -> 10 punts / - 10 punts (pot restar)
-"-> 10" vol dir fins a 10 punts.
-La nota màxima és 100 punts.
+Mediante el menu podemos acceder a las instucciones del cuestionario.
+Tambien mediante el menu podemos acceder a rellenar un formulario de contacto con la universidad.
 
-Entrega la url de github, es corregirà amb rawgit.
+Se realiza una presentación del cuestionario así como su adaptación para realizar la prueba desde todo tipo de dispositivos.
+
+Se raliza separación del codigo HTML / CSS / JS ç
+
+Se han validado e identado HTML/ CSS (En la pagina W3school) y XML (este con XSD).
+
+Se ha realizado una version minify introucida en una "Branch" del repositorio"
+
+
+
+
+

@@ -1,4 +1,4 @@
-# CUESTIONARIO-TEMA-3-LM
+# VERSIÓN MINIFIED DEL CUESTIONARIO-TEMA-3-LM
 
 
 Creación de un examen con autocorrección -HTML, JavaScrip, XML y CSS y validación XML mediante XSD-.
